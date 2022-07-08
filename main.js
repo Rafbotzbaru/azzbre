@@ -167,7 +167,7 @@ global.reloadHandler = function (restatConn) {
     conn.ev.off('creds.update', conn.credsUpdate)
   }
 
-  conn.welcome = 'HALO @user YATIM👋\nPATUHI DESKRIPSI KONTOL\n\nGABUNG KE GRUP GW AJG :\n\n😈₲ⱤɄ₱ ฿Ø₮Ⱬ ꋬꇙꌦꋪꋬꊰ 6ꌦꄲ꒤꒤¹😈\nGROUP 1 :\nhttps://chat.whatsapp.com/CRrj0z3HgeX39XHNUt0M9V\n\nGROUP 2:\nhttps://chat.whatsapp.com/Da7ZPf7mC8T3nERBpWPcgt\n\nGROUP 3:\nhttps://chat.whatsapp.com/BdwNQqYBwDN5UtvievnDEe
+  conn.welcome = 'HALO @user YATIM👋\nPATUHI DESKRIPSI KONTOL\n\nGABUNG KE GRUP GW AJG :\n\n😈₲ⱤɄ₱ ฿Ø₮Ⱬ ꋬꇙꌦꋪꋬꊰ 6ꌦꄲ꒤꒤¹😈\nGROUP 1 :\nhttps://chat.whatsapp.com/CRrj0z3HgeX39XHNUt0M9V\n\nGROUP 2:\nhttps://chat.whatsapp.com/Da7ZPf7mC8T3nERBpWPcgt\n\nGROUP 3:\nhttps://chat.whatsapp.com/BdwNQqYBwDN5UtvievnDEe'
   conn.bye = 'HY @user BYE BYE\nTETAP PATAH HATI\nJANGAN PERNAH SEMANGAT\nTETAP PUTUS ASA\nDAN JADILAH BEBAN KELUARGA🗿🚬'
   conn.spromote = 'Kontol @user Yatim Beban Malah Dijadiin Admin Bandar Bokep'
   conn.sdemote = 'Aowkwowk Kasian @user Bukan Admin yatim Lagi!'
